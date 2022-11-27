@@ -12,3 +12,5 @@ then
 git remote add origin SSH/
 check
 git remote -v
+push
+git push origin master  or git push -u  origin master (sets origin master as default -> only git push afterwards)
