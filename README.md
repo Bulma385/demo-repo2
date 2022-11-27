@@ -15,4 +15,21 @@ git remote -v
 push
 git push origin master  or git push -u  origin master (sets origin master as default -> only git push afterwards)
 
-test
+## Branching 
+https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
+
+master branch
+, feature branch
+
+do changes on seperate branches then merge!
+
+hot fix branch
+
+git branch
+
+git checkout -b feature-branch  ;; git checkout master
+
+## Removing 
+
+## Forking
+Fork repos of other developers such that you have access and right to it.
